@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Tommy",
+    "photo": "../../assets/images/tommy.jpg",
+    "scores": [
+      1,
+      5,
+      4,
+      3,
+      4,
+      2,
+      3,
+      1,
+      1,
+      4
+    ]
+  },
+  {
+    "name": "Claudette",
+    "photo": "../../assets/images/claudette.jpg",
+    "scores": [
+      5,
+      3,
+      4,
+      3,
+      4,
+      2,
+      3,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Denny",
+    "photo": "../../assets/images/denny.jpg",
+    "scores": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "name": "Mark",
+    "photo": "../../assets/images/mark.jpg",
+    "scores": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "name": "Mike",
+    "photo": "../../assets/images/mike.jpg",
+    "scores": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "name": "Lisa",
+    "photo": "../../assets/images/lisa.jpg",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "name": "Flower Bruh",
+    "photo": "../../assets/images/flower.jpg",
+    "scores": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Doggie",
+    "photo": "../../assets/images/doggie.jpg",
+    "scores": [
+      5,
+      4,
+      3,
+      2,
+      1,
+      5,
+      4,
+      3,
+      2,
+      1
+    ]
+  }
+]

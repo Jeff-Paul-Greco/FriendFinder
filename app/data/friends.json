@@ -17,7 +17,7 @@
   },
   {
     "name": "Claudette",
-    "photo": "../../assets/images/claudette.jpg",
+    "photo": "../assets/images/claudette.jpg",
     "scores": [
       5,
       3,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Denny",
-    "photo": "../../assets/images/denny.jpg",
+    "photo": "../assets/images/denny.jpg",
     "scores": [
       5,
       5,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Mark",
-    "photo": "../../assets/images/mark.jpg",
+    "photo": "../assets/images/mark.jpg",
     "scores": [
       1,
       2,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Mike",
-    "photo": "../../assets/images/mike.jpg",
+    "photo": "../assets/images/mike.jpg",
     "scores": [
       4,
       4,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Lisa",
-    "photo": "../../assets/images/lisa.jpg",
+    "photo": "../assets/images/lisa.jpg",
     "scores": [
       1,
       2,
@@ -99,21 +99,21 @@
     "name": "Flower Bruh",
     "photo": "../../assets/images/flower.jpg",
     "scores": [
+      3,
+      2,
       1,
       1,
+      2,
+      3,
+      3,
+      2,
       1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
+      5
     ]
   },
   {
     "name": "Doggie",
-    "photo": "../../assets/images/doggie.jpg",
+    "photo": "../assets/images/doggie.jpg",
     "scores": [
       5,
       4,
@@ -125,198 +125,6 @@
       3,
       2,
       1
-    ]
-  },
-  {
-    "name": "jeff g",
-    "photo": "https://jeff-paul-greco.github.io/portfolio/assets/images/pic.png",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "jeff g",
-    "photo": "https://jeff-paul-greco.github.io/portfolio/assets/images/pic.png",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "jeff g",
-    "photo": "https://jeff-paul-greco.github.io/portfolio/assets/images/pic.png",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "jeff g",
-    "photo": "https://jeff-paul-greco.github.io/portfolio/assets/images/pic.png",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "",
-    "photo": "",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "jeff g",
-    "photo": "https://jeff-paul-greco.github.io/portfolio/assets/images/pic.png",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "jeff g",
-    "photo": "https://jeff-paul-greco.github.io/portfolio/assets/images/pic.png",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "",
-    "photo": "",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "",
-    "photo": "",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "",
-    "photo": "",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "",
-    "photo": "",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ]
-  },
-  {
-    "name": "",
-    "photo": "",
-    "scores": [
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
     ]
   }
 ]

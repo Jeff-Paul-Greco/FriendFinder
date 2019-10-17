@@ -2,7 +2,7 @@ body {
     font-family: "Courier New", Courier, monospace;
 }
 
-.survey-background {
+.survey-background, #modal-back {
     background-image: url("../images/container.jpg");
     background-size: cover;
 }
@@ -27,4 +27,8 @@ body {
 
 .field-padding {
     padding-top: 1%;
+}
+
+#matched-name, #exit {
+    font-weight: bolder;
 }

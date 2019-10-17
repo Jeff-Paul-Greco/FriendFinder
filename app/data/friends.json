@@ -113,7 +113,7 @@
   },
   {
     "name": "Doggie",
-    "photo": "./assets/images/doggie.jpg",
+    "photo": "./assets/images/zuck.jpg",
     "scores": [
       5,
       4,
@@ -125,6 +125,38 @@
       3,
       2,
       1
+    ]
+  },
+  {
+    "name": "Tom Space",
+    "photo": "./assets/images/tom.jpg",
+    "scores": [
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "name": "The Zuck",
+    "photo": "./assets/images/zuck.jpg",
+    "scores": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
     ]
   }
 ]

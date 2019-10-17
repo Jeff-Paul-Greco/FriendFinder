@@ -7,31 +7,33 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Friend Finder</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/styles.css">
 </head>
 
-<body>
+<body class="landing-background">
 
     <div class="container">
+        <div class="col-md-6">
+            <div class="jumbotron text-center">
 
-        <div class="jumbotron">
+                <h1>Friend Finder</h1>
+                <h2>Answer a few basic questions.</h2>
+                <h2>Then find the friend with the greatest compatibility!</h2><br>
 
-            <h1>Friend Finder</h1>
-            <h2>Answer a few basic questions.</h2>
-            <h2>Then find the friend with the greatest compatibility!</h2><br>
+                <div>
+                    <a href="/survey">
+                        <button type="button" class="btn btn-lg btn-primary">
+                            <h3>Go to Survey</h3>
+                        </button>
+                    </a>
+                </div>
 
-            <div>
-                <a href="/survey">
-                    <button type="button" class="btn btn-lg btn-primary">
-                        <h3>Go to Survey</h3>
-                    </button>
-                </a>
             </div>
-
         </div>
 
-        <footer class="footer">
+        <footer class="footer col-md-6">
             <div class="container">
-                <p><a href="/api/friends">API Friends List</a> | <a href="/">Home</a> | <a
+                <p class="text-center"><a href="/api/friends">API Friends List</a> | <a href="/">Home</a> | <a
                         href="https://github.com/Jeff-Paul-Greco/FriendFinder">GitHub Repo</a></p>
             </div>
         </footer>

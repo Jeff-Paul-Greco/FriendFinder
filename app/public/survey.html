@@ -15,6 +15,7 @@
 
     <div class="container" id="main-container">
 
+        <!-- Survey Section-->
         <h2><strong>Survey Questions</strong></h2>
         <hr>
 
@@ -143,6 +144,7 @@
         <button type="submit" class="btn btn-primary btn-lg" id="submit">Submit</button>
 
         <hr>
+        <!-- Links to raw JSON -->
         <footer class="footer">
             <div class="container">
                 <p><a class="text-dark" href="/api/friends">API Friends List</a> | <a class="text-dark"
@@ -153,6 +155,7 @@
 
     </div>
 
+    <!-- Results modal -->
     <div id="results" class="modal fade text-center" role="dialog">
 
         <div class="modal-dialog text-center">
@@ -175,12 +178,14 @@
 
     <script type="text/javascript">
 
+        // Form submit button
         $("#submit").on("click", function (event) {
 
             event.preventDefault();
 
             var userData = {
 
+                //Parsing inputs
                 name: $("#name").val(),
                 photo: $("#photo").val(),
                 scores: [
@@ -198,6 +203,7 @@
             };
             console.log(userData);
 
+            //posting new friends to populate results modal
             $.post("/api/friends", userData, function (data) {
 
                 $("#matched-name").text(data.name);
